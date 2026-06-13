@@ -1,20 +1,19 @@
 @font-face {
-    src: url(Qttney.otf);
+    src: url(Fonts/Qttney.otf);
     font-family: qttney;
 }
 @font-face {
     font-family: casko;
-    src: url(Roselyne.ttf);
+    src: url(Fonts/Roselyne.ttf);
 }
 @font-face {
     font-family: algo;
-    src: url(Agbalumo-Regular.ttf);
+    src: url(Fonts/Agbalumo-Regular.ttf);
 }
 @font-face {
     font-family: Alan;
-    src: url(AlanSans-VariableFont_wght.ttf);
+    src: url(Fonts/AlanSans-VariableFont_wght.ttf);
 }
-
 html{
     scroll-behavior: smooth;
 }
