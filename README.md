@@ -6,32 +6,28 @@ Cozy Cup delivers a warm café-inspired experience with an elegant interface, in
 
 ## 🚀 Live Demo
 
-Add your deployed website link here:
+🔗 https://coozycup.netlify.app
 
-https://your-demo-link.com
+Visit the live website to explore the complete café experience.
 
 ---
 
 ## 📸 Preview
 
-Add screenshots or GIFs here.
-
-| Home Page | Menu Section |
-|-----------|-------------|
-| Screenshot | Screenshot |
+Add homepage screenshots or GIFs here to showcase the user experience.
 
 ---
 
 ## ✨ Features
 
-- Responsive design for all screen sizes
-- Modern café-themed UI
-- Interactive navigation
-- Smooth scrolling and animations
+- Responsive design for desktop, tablet, and mobile devices
+- Modern café-themed user interface
+- Interactive navigation and smooth scrolling
 - Coffee menu showcase
 - Reservation section
-- Customer reviews/testimonials
-- Clean and organized code structure
+- Customer testimonials and reviews
+- Smooth animations and transitions
+- Clean and maintainable code structure
 
 ---
 
@@ -43,29 +39,12 @@ Add screenshots or GIFs here.
 
 ---
 
-## 📂 Project Structure
-
-```text
-cozycup/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── images/
-│   └── icons/
-│
-└── README.md
-```
-
----
-
 ## 🎯 Learning Objectives
 
-This project was built to practice:
+This project was created to strengthen skills in:
 
 - Responsive Web Design
-- CSS Flexbox & Grid
+- CSS Flexbox & Layout Techniques
 - JavaScript DOM Manipulation
 - UI/UX Design Principles
 - Frontend Development Best Practices
@@ -74,11 +53,11 @@ This project was built to practice:
 
 ## 🔮 Future Improvements
 
-- Online ordering system
-- Dark mode
+- Online ordering functionality
+- Dark mode support
 - Backend integration
 - User authentication
-- Payment gateway support
+- Payment gateway integration
 - Dynamic menu management
 
 ---
@@ -93,4 +72,4 @@ GitHub: https://github.com/benzene-py
 
 ## ⭐ Support
 
-If you found this project useful, consider giving it a star.
+If you found this project useful, consider giving it a star and sharing feedback.
